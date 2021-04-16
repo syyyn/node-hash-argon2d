@@ -1,4 +1,4 @@
-# node-dynamic-argon2d
+# node-hash-argon2d
 Usage
 ------
 to create a raw hash from a string of data
